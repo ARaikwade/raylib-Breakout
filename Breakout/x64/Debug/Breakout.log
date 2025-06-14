@@ -1,0 +1,8 @@
+﻿  Breakout.cpp
+  ball.cpp
+  level.cpp
+  Generating Code...
+C:\Users\amard\Documents\projects\raylib projects\Breakout\Breakout\ball.cpp(14,1): warning C4715: 'ball::move': not all control paths return a value
+  Breakout.vcxproj -> C:\Users\amard\Documents\projects\raylib projects\Breakout\x64\Debug\Breakout.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
