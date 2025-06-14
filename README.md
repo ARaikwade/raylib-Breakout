@@ -1,7 +1,7 @@
-Breakout Game
+**Breakout Game**
 A simple implementation of the classic Breakout game using the Raylib library. Players control a paddle to bounce a ball and break bricks. The game ends when the ball misses the paddle or all bricks are destroyed.
 ---
-Features
+**Features**
 •	Paddle Movement: Use keyboard controls to move the paddle left or right.
 •	Ball Physics: The ball bounces off the paddle, walls, and bricks.
 •	Brick Levels: Multiple rows of bricks to break.
@@ -9,9 +9,6 @@ Features
 •	Game Over: When the ball misses the paddle.
 •	You Win: When all bricks are destroyed.
 •	Dynamic Difficulty: The number of brick rows increases after each win.
----
-Screenshots
-(Add screenshots of your game here)
 ---
 Installation
 Prerequisites
